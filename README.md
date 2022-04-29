@@ -13,7 +13,7 @@
 </a>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Kaviya+Ofc+Amazone+Alexa+Fork&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Kaviya+Ofc&font=Fira%20Code&center=true&width=380&height=50">
 
 </a>
 <p align="center">
