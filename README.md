@@ -98,7 +98,7 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 පළමු උපාංගයෙන් ඔබට Amazone Bot install කිරීමට අවශ්‍යයි..
 ```
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaviyaofc/alexa)
 
 
 > [සම්පූර්ණ සිංහල Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
@@ -107,7 +107,7 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 
 # 🚀Amazone පහසුකම් ලැයිස්තුව
 
-<a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
+<a href="https://gist.github.com/Kaviyaofc/ff9aa739e8c1399d05c79db1dab9ee4c">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
   
   </a>
