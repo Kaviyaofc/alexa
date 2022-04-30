@@ -11,7 +11,7 @@
 
 </a>
 
-![logo](https://telegra.ph/file/6091d5f424ae99afc517a.jpg)
+![logo](https://telegra.ph/file/75a0e2fc8a9b2b7fff113.jpg)
 <h1 align="center"><b> 🧚Agent Kaviyah Bot (ᴹᴿʙᴏsᴀ) </b></h1>
 
 </a>
